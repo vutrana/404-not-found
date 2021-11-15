@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404 not found page}</h1>
+<h1 align="center">404 not found page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -66,6 +66,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{vutrana.github.io})
-- GitHub [@your-username](https://{github.com/vutrana})
-- Twitter [@your-twitter](https://{twitter.com/vutran91})
+- Website [vutrana.github.io](https://vutrana.github.io)
+- GitHub [@vutrana](https://github.com/vutrana)
+- Twitter [@vutran91](https://twitter.com/vutran91)
